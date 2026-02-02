@@ -43,3 +43,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ziwiwiz/nezha-ui@main/nezha-dashboard.css">
 <script src="https://cdn.jsdelivr.net/gh/ziwiwiz/nezha-ui@main/nezha-dashboard.js"></script>
 ```
+###### 页面时间修改 
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ziwiwiz/nezha-ui@main/nezha-time.css">
+```
